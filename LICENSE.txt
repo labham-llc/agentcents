@@ -1,0 +1,4 @@
+Copyright (c) 2026 Labham LLC. All rights reserved.
+
+This is proprietary source code owned by Labham LLC.
+Unauthorized copying, modification, or distribution is strictly prohibited.
